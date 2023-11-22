@@ -1,0 +1,10 @@
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\bin\Debug\Daily_Sells_App.exe.config
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\bin\Debug\Daily_Sells_App.exe
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\bin\Debug\Daily_Sells_App.pdb
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.csproj.AssemblyReference.cache
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.Form1.resources
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.Properties.Resources.resources
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.csproj.GenerateResource.cache
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.csproj.CoreCompileInputs.cache
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.exe
+C:\Users\rushi\OneDrive\Desktop\.NET PROGRAMMING\Daily_Sells_App\Daily_Sells_App\obj\Debug\Daily_Sells_App.pdb
